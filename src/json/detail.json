@@ -1,0 +1,56 @@
+[
+    {
+        "id" : "01",
+        "type" : "Clone",
+        "title" : ["2022 SEOUL MUSIC","FESTIVAL"],
+        "images" : ["../asset/project/clone.png","../asset/project/clone2.png","../asset/project/clone3.png","../asset/project/clone4.png"],
+        "skills" : ["HTML","SCSS","JavaScript"],
+        "contents" : ["코딩 공부 시작 후 처음 진행해 본 프로젝트 입니다. 기본적인 HTML, CSS, JavaScript만을 사용하여 제작 하였으며, 이론으로 배우기만 했던 내용을 실제로 써보면서 코딩의 재미를 느낄 수 있게 해준 의미있는 프로젝트입니다."],
+        "date" : "2023.07 (1인 클론코딩)",
+        "main_function" : ["Home","SMUF소개(오시는길)","라인업","커뮤니티(공지사항)"],
+        "Github" : "https://github.com/Minidrago/self.git",
+        "URL" : "https://minidrago.github.io/self/Clone",
+        "Deployment" : "Github"
+    },
+    {
+        "id" : "02",
+        "type" : "Team",
+        "title" : ["ToEat"],
+        "images" : ["../asset/project/toeat.png","../asset/project/toeat2.png","../asset/project/toeat3.png","../asset/project/toeat4.png"],
+        "skills" : ["HTML","SCSS","JavaScript"],
+        "contents" : ["처음으로 혼자가 아닌 팀으로 작업했던 프로젝트 입니다.  기본적인 HTML, SCSS, JavaScript를 사용하여 제작 하였으며, 김포시의 소곳소곳 웹사이트를 참고하여 서울시의 맛집을 검색하고 나만의 맛집들을 저장하며 리뷰를 남길 수 있는 기능을 구현하였습니다."],
+        "date" : "2023.08 (6인 팀 프로젝트)",
+        "main_function" : ["지도에서 서울의 각 구별 맛집탐색","추천코스","관심목록","커뮤니티(방문후기,공지사항,맛집추천)"],
+        "Github" : "https://github.com/WhiteLim/Toeat.git",
+        "URL" : "https://whitelim.github.io/Toeat",
+        "Deployment" : "Github"
+    },
+    {
+        "id" : "03",
+        "type" : "Single",
+        "title" : ["Mountain"],
+        "images" : ["../asset/project/mountain.png","../asset/project/mountain2.png","../asset/project/mountain3.png"],
+        "skills" : ["HTML","SCSS","React.js"],
+        "contents" : ["코딩 공부 시작 후 처음 진행해 본 프로젝트입니다.기본적인 HTML, CSS, JavaScript만을 사용하여 제작 하였으며, 이론으로 배우기만 했던 내용을 실제로 써보면서 코딩의 재미를 느낄 수 있게 해준 의미있는 프로젝트입니다."],
+        "date" : "2023.09 (1인 프로젝트)",
+        "main_function" : ["산 이름으로 검색","지도 클릭으로 해당 지역의 산 검색","개별 산 정보"],
+        "Github" : "https://github.com/Minidrago/Mountain.git",
+        "URL" : "https://minidrago.github.io/Mountain",
+        "Deployment" : "Github"
+    },
+    {
+        "id" : "04",
+        "type" : "Team",
+        "title" : ["JejePick"],
+        "images" : ["../asset/project/jejepick.png","../asset/project/jejepick2.png","../asset/project/jejepick3.png","../asset/project/jejepick4.png"],
+        "skills" : ["HTML","SCSS","Next.js"],
+        "contents" : ["코딩 공부 시작 후 처음 진행해 본 프로젝트입니다.기본적인 HTML, CSS, JavaScript만을 사용하여 제작 하였으며, 이론으로 배우기만 했던 내용을 실제로 써보면서 코딩의 재미를 느낄 수 있게 해준 의미있는 프로젝트입니다."],
+        "date" : "2023.10 (6인 팀프로젝트)",
+        "main_function" : ["회원가입","성향 테스트","테스트 결과를 활용하여 숙소, 음식점, 관광지 추천","카테고리별 찜기능을 활용하여 여행코스 구성","코스를 지도에 표시(카카오맵)"],
+        "Github" : "https://github.com/Minidrago/jejepick.git",
+        "URL" : "https://jejepick-zeta.vercel.app/",
+        "Frontend" : ["HTML","SCSS","JavaScript"],
+        "Deployment" : "Vercel"
+    }
+    
+]

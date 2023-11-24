@@ -1,0 +1,7 @@
+body {
+  background: #060e1b;
+}
+#canvas{
+  position: fixed;
+  z-index: -1;
+}
